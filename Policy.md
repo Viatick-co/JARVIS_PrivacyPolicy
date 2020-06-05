@@ -25,13 +25,13 @@ enquiry@viatick.com
 
 ### Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Bluetooth permission and Location permission.
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Bluetooth permission, Location Permission.
 
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.
 
 The Personal Data may be freely provided by the User, or collected automatically when using this Application.
 
-Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.
+Any use of Cookies - or of other tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.
 
 Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
@@ -39,8 +39,8 @@ Users are responsible for any Personal Data of third parties obtained, published
 
 Other Personal Data are classified as follows:
 
-1. Location information and destination information;
-2. Email address, and other similar contacts data;
+1. Location information;
+2. Your phone number, email address, and other similar contacts data;
 3. Password, and similar contacts data;
 
 ### Mode and place of processing the Data only
@@ -50,6 +50,7 @@ Other Personal Data are classified as follows:
 The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
 
 The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
+
 
 ##### Place
 
@@ -67,7 +68,7 @@ The Personal Data used for each purpose is outlined in the specific sections of 
 
 ### Device permissions for Personal Data access
 
-This Application requests certain permissions from Users that allow it to access the User's device Data as described below. One of such is to enable Bluetooth on the Users' devices, for the purpose of contact tracing. By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.
+This Application requests certain permissions from Users that allow it to access the User's device Data as described below. One of such is to enable Bluetooth on the Users' devices, for the purpose of unlocking the employee’s personal lock/cupboard associated therein. It is also earmarked as a handshake to allow a time stamped automated contactless clock in and out, at the workplace, through Bluetooth Low Energy Beacons. By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.
 
 The exact procedure for controlling app permissions may be dependent on the User's device and software.
 
@@ -75,27 +76,27 @@ Please note that the revoking of such permissions might impact the proper functi
 
 If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by this Application.
 
+
 ##### Bluetooth permission
 
-Used for accessing the proximity and presence of another device for contact tracing and alerts.
+Used for contactless clocking in and out at the workplace, automated with the help of Bluetooth Low Energy Beacons.  Used for accessing the bluetooth locks of the cupboard at the workplace by employees and to receive company proximity push information from the Bluetooth Low Energy Beacons itself.
 
 ##### Location permission
 
-Used for locating the user of device for the purpose of contact tracing.
-
+Used for earmarking a macro first tier location that is indexed to Bluetooth Beacon that is attached to the actual location. Also used for determining the current office location, when employees access and unlock the cupboards etc.
 
 ### Detailed information on the processing of Personal Data
 
 Personal Data is collected for the following purposes and using the following services:
+Device permissions for Personal Data access
 
-    Device permissions for Personal Data access
+This Application requests certain permissions from Users that allow it to access the User's device Data as described below.
 
-    This Application requests certain permissions from Users that allow it to access the User's device Data as described below.
+  Device permissions for Personal Data access (This Application)
 
-    Device permissions for Personal Data access (This Application)
+  This Application requests certain permissions from Users that allow it to access the User's device Data as summarized here and described within this document.
+  Personal Data collected: Location permission. Bluetooth permission.
 
-    This Application requests certain permissions from Users that allow it to access the User's device Data as summarized here and described within this document.
-    Personal Data collected: Bluetooth permission. Location permission
 
 ### Additional information about Data collection and processing
 
@@ -123,13 +124,13 @@ Users have the right, at any time, to know whether their Personal Data has been 
 
 This Application does not support “Do Not Track” requests.
 
-To determine whether any of the third party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+To determine whether any of the third party services it uses honour the “Do Not Track” requests, please read their privacy policies.
 
 ##### Information may be sent to you
 
-1. The necessary information to alert in times of contact tracing and social distancing breaches;
+1. The necessary verification code to complete the service;
 2. Push notifications when using the application and services;
-3. News, special promotions and promotional activities on JARVIS's application
+3. News, pertaining the company from a push notification of a Bluetooth Low Energy beacon
 
 ##### Changes to this privacy policy
 
@@ -137,12 +138,4 @@ The Data Controller reserves the right to make changes to this privacy policy at
 
 ##### Information about this privacy policy
 
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Viatick and hosted on Viatick's servers.
-
-##### Issue with APP and Solution
-
-It is in our public interest to ensure the workability of the Social Distancing , Contact Tracing and Indoor Positioning . In the event the APP malfunction, a support ticket will be generated to solve the issue. During this period, we seek your understanding that our support and maintenance team will get back to you. The following are reaction times that our support team will get back to you on:
-
-10am - 10pm : Within 6 hours
-
-10pm onwards : Within 12 hours
+The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by JARVIS and hosted on JARVIS’s servers.
