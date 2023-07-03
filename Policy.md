@@ -15,9 +15,7 @@ Personal Data collected for the following purposes and using the following servi
 
 Viatick
 
-6 Shenton Way OUE Downtown 2, #22-08
-
-Singapore 068809
+150 Sims Drive #06-00 Singapore 387381
 
 Email:
 
