@@ -15,7 +15,7 @@ Personal Data collected for the following purposes and using the following servi
 
 Viatick
 
-150 Sims Drive #06-00 Singapore 387381
+8G Yio Chu Kang Rd, ICB Shopping Centre, Singapore 545522
 
 Email:
 
